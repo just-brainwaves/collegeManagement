@@ -1,6 +1,6 @@
 # 👽 The College Management Website
 
-Welcome to **College Management Website** — VibeCoded, Functinoal, And Giving Rich Features For Attendance And Mid-Terms Management.
+Welcome to **College Management Website** — VibeCoded, Functional, And Giving Rich Features For Attendance And Mid-Terms Management.
 
 ---
 
